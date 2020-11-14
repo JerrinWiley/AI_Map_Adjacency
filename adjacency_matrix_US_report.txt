@@ -1,0 +1,52 @@
+NVA = 19747
+Number of colors needed: 4
+Alaska:Red -> {}
+Alabama:Red -> {Florida:Green, Georgia:Blue, Mississippi:Blue, Tennessee:Green}
+Arkansas:Red -> {Louisiana:Green, Missouri:Yellow, Mississippi:Blue, Oklahoma:Blue, Tennessee:Green, Texas:Yellow}
+Arizona:Red -> {California:Green, New Mexico:Green, Nevada:Blue, Utah:Yellow}
+California:Green -> {Arizona:Red, Nevada:Blue, Oregon:Yellow}
+Colorado:Red -> {Kansas:Green, Nebraska:Blue, New Mexico:Green, Oklahoma:Blue, Utah:Yellow, Wyoming:Green}
+Connecticut:Red -> {Massachusetts:Green, New York:Yellow, Rhode Island:Blue}
+Delaware:Red -> {Maryland:Green, New Jersey:Green, Pennsylvania:Blue}
+Florida:Green -> {Alabama:Red, Georgia:Blue}
+Georgia:Blue -> {Alabama:Red, Florida:Green, North Carolina:Red, South Carolina:Green, Tennessee:Green}
+Hawaii:Red -> {}
+Iowa:Red -> {Illinois:Green, Minnesota:Green, Missouri:Yellow, Nebraska:Blue, South Dakota:Yellow, Wisconsin:Blue}
+Idaho:Red -> {Montana:Blue, Nevada:Blue, Oregon:Yellow, Utah:Yellow, Washington:Green, Wyoming:Green}
+Illinois:Green -> {Iowa:Red, Indiana:Red, Kentucky:Blue, Missouri:Yellow, Wisconsin:Blue}
+Indiana:Red -> {Illinois:Green, Kentucky:Blue, Michigan:Green, Ohio:Yellow}
+Kansas:Green -> {Colorado:Red, Missouri:Yellow, Nebraska:Blue, Oklahoma:Blue}
+Kentucky:Blue -> {Illinois:Green, Indiana:Red, Missouri:Yellow, Ohio:Yellow, Tennessee:Green, Virginia:Yellow, West Virginia:Red}
+Louisiana:Green -> {Arkansas:Red, Mississippi:Blue, Texas:Yellow}
+Massachusetts:Green -> {Connecticut:Red, New Hampshire:Blue, New York:Yellow, Rhode Island:Blue, Vermont:Red}
+Maryland:Green -> {Delaware:Red, Pennsylvania:Blue, Virginia:Yellow, West Virginia:Red}
+Maine:Red -> {New Hampshire:Blue}
+Michigan:Green -> {Indiana:Red, Ohio:Yellow, Wisconsin:Blue}
+Minnesota:Green -> {Iowa:Red, North Dakota:Red, South Dakota:Yellow, Wisconsin:Blue}
+Missouri:Yellow -> {Arkansas:Red, Iowa:Red, Illinois:Green, Kansas:Green, Kentucky:Blue, Nebraska:Blue, Oklahoma:Blue, Tennessee:Green}
+Mississippi:Blue -> {Alabama:Red, Arkansas:Red, Louisiana:Green, Tennessee:Green}
+Montana:Blue -> {Idaho:Red, North Dakota:Red, South Dakota:Yellow, Wyoming:Green}
+North Carolina:Red -> {Georgia:Blue, South Carolina:Green, Tennessee:Green, Virginia:Yellow}
+North Dakota:Red -> {Minnesota:Green, Montana:Blue, South Dakota:Yellow}
+Nebraska:Blue -> {Colorado:Red, Iowa:Red, Kansas:Green, Missouri:Yellow, South Dakota:Yellow, Wyoming:Green}
+New Hampshire:Blue -> {Massachusetts:Green, Maine:Red, Vermont:Red}
+New Jersey:Green -> {Delaware:Red, New York:Yellow, Pennsylvania:Blue}
+New Mexico:Green -> {Arizona:Red, Colorado:Red, Oklahoma:Blue, Texas:Yellow}
+Nevada:Blue -> {Arizona:Red, California:Green, Idaho:Red, Oregon:Yellow, Utah:Yellow}
+New York:Yellow -> {Connecticut:Red, Massachusetts:Green, New Jersey:Green, Pennsylvania:Blue, Vermont:Red}
+Ohio:Yellow -> {Indiana:Red, Kentucky:Blue, Michigan:Green, Pennsylvania:Blue, West Virginia:Red}
+Oklahoma:Blue -> {Arkansas:Red, Colorado:Red, Kansas:Green, Missouri:Yellow, New Mexico:Green, Texas:Yellow}
+Oregon:Yellow -> {California:Green, Idaho:Red, Nevada:Blue, Washington:Green}
+Pennsylvania:Blue -> {Delaware:Red, Maryland:Green, New Jersey:Green, New York:Yellow, Ohio:Yellow, West Virginia:Red}
+Rhode Island:Blue -> {Connecticut:Red, Massachusetts:Green}
+South Carolina:Green -> {Georgia:Blue, North Carolina:Red}
+South Dakota:Yellow -> {Iowa:Red, Minnesota:Green, Montana:Blue, North Dakota:Red, Nebraska:Blue, Wyoming:Green}
+Tennessee:Green -> {Alabama:Red, Arkansas:Red, Georgia:Blue, Kentucky:Blue, Missouri:Yellow, Mississippi:Blue, North Carolina:Red, Virginia:Yellow}
+Texas:Yellow -> {Arkansas:Red, Louisiana:Green, New Mexico:Green, Oklahoma:Blue}
+Utah:Yellow -> {Arizona:Red, Colorado:Red, Idaho:Red, Nevada:Blue, Wyoming:Green}
+Virginia:Yellow -> {Kentucky:Blue, Maryland:Green, North Carolina:Red, Tennessee:Green, West Virginia:Red}
+Vermont:Red -> {Massachusetts:Green, New Hampshire:Blue, New York:Yellow}
+Washington:Green -> {Idaho:Red, Oregon:Yellow}
+Wisconsin:Blue -> {Iowa:Red, Illinois:Green, Michigan:Green, Minnesota:Green}
+West Virginia:Red -> {Kentucky:Blue, Maryland:Green, Ohio:Yellow, Pennsylvania:Blue, Virginia:Yellow}
+Wyoming:Green -> {Colorado:Red, Idaho:Red, Montana:Blue, Nebraska:Blue, South Dakota:Yellow, Utah:Yellow}

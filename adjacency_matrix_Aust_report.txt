@@ -1,0 +1,9 @@
+NVA = 12
+Number of colors needed: 3
+Western Australia:Red -> {Northern Territory:Green, South Australia:Blue}
+Northern Territory:Green -> {Western Australia:Red, Queensland:Red, South Australia:Blue}
+Queensland:Red -> {Northern Territory:Green, South Australia:Blue, New South Wales:Green}
+South Australia:Blue -> {Western Australia:Red, Northern Territory:Green, Queensland:Red, New South Wales:Green, Victoria:Red}
+New South Wales:Green -> {Queensland:Red, South Australia:Blue, Victoria:Red}
+Victoria:Red -> {South Australia:Blue, New South Wales:Green, Tasmania:Green}
+Tasmania:Green -> {Victoria:Red}

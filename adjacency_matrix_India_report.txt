@@ -1,0 +1,30 @@
+NVA = 39177546
+Number of colors needed: 4
+Andhra Pradesh:Red -> {Chhattisgarh:Blue, Karnataka:Blue, Odisha:Yellow, Tamil Nadu:Green, Telangana:Green}
+Arunachal Pradesh:Red -> {Assam:Green, Nagaland:Blue}
+Assam:Green -> {Arunachal Pradesh:Red, Manipur:Red, Meghalaya:Red, Mizoram:Blue, Nagaland:Blue, Tripura:Red, West Bengal:Blue}
+Bihar:Red -> {Jharkhand:Green, Uttar Pradesh:Yellow, West Bengal:Blue}
+Chhattisgarh:Blue -> {Andhra Pradesh:Red, Jharkhand:Green, Madhya Pradesh:Green, Maharashtra:Yellow, Odisha:Yellow, Telangana:Green, Uttar Pradesh:Yellow}
+Goa:Red -> {Karnataka:Blue, Maharashtra:Yellow}
+Gujarat:Red -> {Madhya Pradesh:Green, Maharashtra:Yellow, Rajasthan:Blue}
+Haryana:Red -> {Himachal Pradesh:Green, Punjab:Yellow, Rajasthan:Blue, Uttar Pradesh:Yellow}
+Himachal Pradesh:Green -> {Haryana:Red, Punjab:Yellow, Uttarakhand:Red}
+Jharkhand:Green -> {Bihar:Red, Chhattisgarh:Blue, Odisha:Yellow, Uttar Pradesh:Yellow, West Bengal:Blue}
+Karnataka:Blue -> {Andhra Pradesh:Red, Goa:Red, Maharashtra:Yellow, Tamil Nadu:Green, Telangana:Green}
+Kerala:Red -> {Tamil Nadu:Green}
+Madhya Pradesh:Green -> {Chhattisgarh:Blue, Gujarat:Red, Maharashtra:Yellow, Rajasthan:Blue, Uttar Pradesh:Yellow}
+Maharashtra:Yellow -> {Chhattisgarh:Blue, Goa:Red, Gujarat:Red, Karnataka:Blue, Madhya Pradesh:Green, Telangana:Green}
+Manipur:Red -> {Assam:Green, Mizoram:Blue, Nagaland:Blue}
+Meghalaya:Red -> {Assam:Green}
+Mizoram:Blue -> {Assam:Green, Manipur:Red, Tripura:Red}
+Nagaland:Blue -> {Arunachal Pradesh:Red, Assam:Green, Manipur:Red}
+Odisha:Yellow -> {Andhra Pradesh:Red, Chhattisgarh:Blue, Jharkhand:Green, West Bengal:Blue}
+Punjab:Yellow -> {Haryana:Red, Himachal Pradesh:Green, Rajasthan:Blue}
+Rajasthan:Blue -> {Gujarat:Red, Haryana:Red, Madhya Pradesh:Green, Punjab:Yellow, Uttar Pradesh:Yellow}
+Sikkim:Red -> {West Bengal:Blue}
+Tamil Nadu:Green -> {Andhra Pradesh:Red, Karnataka:Blue, Kerala:Red}
+Telangana:Green -> {Andhra Pradesh:Red, Chhattisgarh:Blue, Karnataka:Blue, Maharashtra:Yellow}
+Tripura:Red -> {Assam:Green, Mizoram:Blue}
+Uttar Pradesh:Yellow -> {Bihar:Red, Chhattisgarh:Blue, Haryana:Red, Jharkhand:Green, Madhya Pradesh:Green, Rajasthan:Blue, Uttarakhand:Red}
+Uttarakhand:Red -> {Himachal Pradesh:Green, Uttar Pradesh:Yellow}
+West Bengal:Blue -> {Assam:Green, Bihar:Red, Jharkhand:Green, Odisha:Yellow, Sikkim:Red}
